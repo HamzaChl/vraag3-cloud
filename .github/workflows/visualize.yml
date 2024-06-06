@@ -1,7 +1,7 @@
-- name: Vraag-cloud3
+  - name: Repo Visualizer
   # You may pin to the exact commit or the version.
   # uses: githubocto/repo-visualizer@a999615bdab757559bf94bda1fe6eef232765f85
-  uses: githubocto/repo-visualizer@0.9.1
+  uses: hamzachl/vraag3-cloud@f20c0e4a983bf8734a7b41478cb8a687c214dcbd
   with:
     # A path (relative to the root of your repo) to where you would like the diagram to live. For example: images/diagram.svg. Default: diagram.svg
     output_file: artifacts/diagram.svg
